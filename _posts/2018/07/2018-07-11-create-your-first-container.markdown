@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create your first container"
-date:   2018-07-11 22:32:48 -0700
+date:   2018-07-11 
 categories: post
 ---
 
